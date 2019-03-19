@@ -1,2 +1,2 @@
-# WorldTweaker
-a mod that lets you add all the in-world crafting recipes
+# ScrollyThingy
+literally does the same thing as ZenScroll

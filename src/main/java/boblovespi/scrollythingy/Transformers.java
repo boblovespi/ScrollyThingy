@@ -1,4 +1,4 @@
-package boblovespi.worldtweaker.util;
+package boblovespi.scrollythingy;
 
 import crafttweaker.api.item.IItemStack;
 import net.minecraft.item.ItemStack;
